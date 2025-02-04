@@ -1,2 +1,2 @@
 # Python-Project
-ROCK PAPER SCISSORS
+"ROCK PAPER SCISSORS" game using python
